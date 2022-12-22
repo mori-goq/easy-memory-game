@@ -31,6 +31,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"array-shuffle": "^3.0.0",
 		"bulma": "^0.9.4"
 	}
 }
